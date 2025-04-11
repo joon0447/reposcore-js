@@ -4,7 +4,7 @@ GitHub API 제한을 피하고 private 저장소에 접근하려면 **Personal A
 
 ## 1. GitHub에 로그인 후 우측 상단 프로필 클릭 
 
-<img src="1.jpg" alt="step1" width="400"/>
+![step1](1.jpg)
 
 ---
 
